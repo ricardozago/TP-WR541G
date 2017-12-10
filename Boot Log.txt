@@ -1,0 +1,37 @@
+AR2315 rev 0x00000090 startup...
+Attached TCP/IP interface to ae unit 0
+Attaching interface lo0...done
+dsInit 1
+
+wlanBridgeInit(): ucGetOpMode() 1
+
+wireless access point starting...
+Auto Channel Scan selected 2412 MHz, channel 1
+wlan0 Ready
+TDDP
+
+
+
+                            Software Platform for ARM
+
+  Copyright(C) 2001-2004 by TP-LINK TECHNOLOGIES CO., LTD.
+
+  Creation date: Dec  3 2010, 11:44:18
+
+
+  Press CTRL-B to enter bootmenu...
+
+
+  Boot Menu:
+
+     1:  Download application program
+
+     2:  Modify Bootrom password
+
+     3:  Exit the menu
+
+     4:  Reboot
+
+     5:  User commond line
+
+        Enter your choice(1-4):

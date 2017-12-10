@@ -1,0 +1,6 @@
+From the pin close to reset button:
+
+VCC
+GND
+RX
+TX
